@@ -1,0 +1,46 @@
+//
+// Prefix header for all source files of the 'HorizontalScrollView' target in the 'HorizontalScrollView' project
+//
+#import <Availability.h>
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iPhone SDK 3.0 and later."
+#endif
+
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif
+#ifdef _DEBUG 
+# define DLog(...) NSLog(__VA_ARGS__) 
+#else 
+# define DLog(...) /*..*/ 
+#endif
+
+#define _KEY(i) [NSString stringWithFormat:@"%d",(i)]   //this macro is used to form a string key from an int of enum type defined below
+
+#define APP_NAME @"ScrollView"
+
+typedef enum {
+	
+	FONT_SIZE_APP=12,
+	FONT_SIZE_SMALL=10
+	
+}Fonts;
+typedef enum {
+	
+	KEY_IMAGE_NO_IMAGE,
+	
+	KEY_USER_PROFILE,
+	KEY_PROFILE_IMAGE,
+	KEY_USERID,
+	KEY_SELECTED_HOTEL
+	
+	
+}Key;
+
+
+#include "AppHelper.h"
+
+#import "ImageLoader.h"

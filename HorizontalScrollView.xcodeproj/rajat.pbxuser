@@ -1,0 +1,695 @@
+// !$*UTF8*$!
+{
+	04638DEE1353433A0097AB4E /* HorizontalScrollView */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = HorizontalScrollView;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	04638DFE135343590097AB4E /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	04638DFF135343590097AB4E /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	04638E01135344020097AB4E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* HorizontalScrollViewAppDelegate.m */;
+		name = "HorizontalScrollViewAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 341;
+		vrLoc = 0;
+	};
+	04638E02135344020097AB4E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* HorizontalScrollViewAppDelegate.h */;
+		name = "HorizontalScrollViewAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 495;
+		vrLoc = 0;
+	};
+	04638E151353449C0097AB4E /* MagazineTeaserView.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = MagazineTeaserView.h;
+		path = /Users/rajat/Projects/HorizontalScrollView/Classes/Helpers/MagazineTeaserView/MagazineTeaserView.h;
+		sourceTree = "<absolute>";
+	};
+	04638E161353449C0097AB4E /* MagazineTeaserView.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = MagazineTeaserView.m;
+		path = /Users/rajat/Projects/HorizontalScrollView/Classes/Helpers/MagazineTeaserView/MagazineTeaserView.m;
+		sourceTree = "<absolute>";
+	};
+	04638E1F135344EC0097AB4E /* ImageLoader.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = ImageLoader.h;
+		path = /Users/rajat/Projects/HorizontalScrollView/Classes/Helpers/ImageLoader/ImageLoader.h;
+		sourceTree = "<absolute>";
+	};
+	04638E20135344EC0097AB4E /* ImageLoader.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = ImageLoader.m;
+		path = /Users/rajat/Projects/HorizontalScrollView/Classes/Helpers/ImageLoader/ImageLoader.m;
+		sourceTree = "<absolute>";
+	};
+	04638E89135346410097AB4E /* AppHelper.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = AppHelper.h;
+		path = /Users/rajat/Projects/HorizontalScrollView/Classes/Helpers/AppHelper/AppHelper.h;
+		sourceTree = "<absolute>";
+	};
+	04638E8A135346410097AB4E /* AppHelper.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = AppHelper.m;
+		path = /Users/rajat/Projects/HorizontalScrollView/Classes/Helpers/AppHelper/AppHelper.m;
+		sourceTree = "<absolute>";
+	};
+	04638ECC135366BA0097AB4E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* HorizontalScrollViewAppDelegate.h */;
+		name = "HorizontalScrollViewAppDelegate.h: 20";
+		rLen = 12;
+		rLoc = 575;
+		rType = 0;
+		vrLen = 596;
+		vrLoc = 0;
+	};
+	04638ECD135366BA0097AB4E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* HorizontalScrollViewAppDelegate.m */;
+		name = "HorizontalScrollViewAppDelegate.m: 31";
+		rLen = 18;
+		rLoc = 697;
+		rType = 0;
+		vrLen = 579;
+		vrLoc = 238;
+	};
+	04638ED3135366BA0097AB4E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28A0AAE50D9B0CCF005BE974 /* HorizontalScrollView_Prefix.pch */;
+		name = "HorizontalScrollView_Prefix.pch: 17";
+		rLen = 11;
+		rLoc = 835;
+		rType = 0;
+		vrLen = 371;
+		vrLoc = 0;
+	};
+	04638ED4135366BA0097AB4E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 04638E20135344EC0097AB4E /* ImageLoader.m */;
+		name = "ImageLoader.m: 10";
+		rLen = 0;
+		rLoc = 168;
+		rType = 0;
+		vrLen = 387;
+		vrLoc = 0;
+	};
+	04638ED5135366BA0097AB4E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 04638E1F135344EC0097AB4E /* ImageLoader.h */;
+		name = "ImageLoader.h: 13";
+		rLen = 0;
+		rLoc = 281;
+		rType = 0;
+		vrLen = 470;
+		vrLoc = 0;
+	};
+	04638ED6135366BA0097AB4E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 04638E89135346410097AB4E /* AppHelper.h */;
+		name = "AppHelper.h: 10";
+		rLen = 0;
+		rLoc = 188;
+		rType = 0;
+		vrLen = 252;
+		vrLoc = 0;
+	};
+	04638FE6135379F70097AB4E /* Pic1.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = Pic1.png;
+		path = /Users/rajat/Projects/HorizontalScrollView/sample/Pic1.png;
+		sourceTree = "<absolute>";
+	};
+	04638FF4135379FF0097AB4E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28A0AAE50D9B0CCF005BE974 /* HorizontalScrollView_Prefix.pch */;
+		name = "HorizontalScrollView_Prefix.pch: 28";
+		rLen = 0;
+		rLoc = 658;
+		rType = 0;
+		vrLen = 238;
+		vrLoc = 611;
+	};
+	0463900413537A8A0097AB4E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 04638E1F135344EC0097AB4E /* ImageLoader.h */;
+		name = "ImageLoader.h: 13";
+		rLen = 0;
+		rLoc = 281;
+		rType = 0;
+		vrLen = 430;
+		vrLoc = 0;
+	};
+	0463907C13538F860097AB4E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 04638E8A135346410097AB4E /* AppHelper.m */;
+		name = "AppHelper.m: 89";
+		rLen = 8;
+		rLoc = 2403;
+		rType = 0;
+		vrLen = 586;
+		vrLoc = 2074;
+	};
+	0463907D13538F860097AB4E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0463907E13538F860097AB4E /* math.h */;
+		name = "math.h: 271";
+		rLen = 41;
+		rLoc = 12842;
+		rType = 0;
+		vrLen = 437;
+		vrLoc = 11874;
+	};
+	0463907E13538F860097AB4E /* math.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = math.h;
+		path = /iphoneTools/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/architecture/arm/math.h;
+		sourceTree = "<absolute>";
+	};
+	0463907F13538F860097AB4E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0463908013538F860097AB4E /* UIScrollView.h */;
+		name = "UIScrollView.h: 223";
+		rLen = 124;
+		rLoc = 12924;
+		rType = 0;
+		vrLen = 1329;
+		vrLoc = 12321;
+	};
+	0463908013538F860097AB4E /* UIScrollView.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UIScrollView.h;
+		path = /iphoneTools/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIScrollView.h;
+		sourceTree = "<absolute>";
+	};
+	04C211721354C947002F495B /* AppScrollView.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = AppScrollView.h;
+		path = /Users/rajat/Projects/HorizontalScrollView/Classes/Helpers/AppScrollView/AppScrollView.h;
+		sourceTree = "<absolute>";
+	};
+	04C211731354C947002F495B /* AppScrollView.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = AppScrollView.m;
+		path = /Users/rajat/Projects/HorizontalScrollView/Classes/Helpers/AppScrollView/AppScrollView.m;
+		sourceTree = "<absolute>";
+	};
+	04C211901354CCBE002F495B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 04C211721354C947002F495B /* AppScrollView.h */;
+		name = "AppScrollView.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 230;
+		vrLoc = 33;
+	};
+	04C211911354CCBE002F495B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 04C211731354C947002F495B /* AppScrollView.m */;
+		name = "AppScrollView.m: 23";
+		rLen = 0;
+		rLoc = 424;
+		rType = 0;
+		vrLen = 317;
+		vrLoc = 238;
+	};
+	04C211A01354CEC6002F495B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286DF0D94DF7D0034E888 /* RootViewController.h */;
+		name = "RootViewController.h: 15";
+		rLen = 0;
+		rLoc = 358;
+		rType = 0;
+		vrLen = 387;
+		vrLoc = 3;
+	};
+	04C211A71354CF71002F495B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286DF0D94DF7D0034E888 /* RootViewController.h */;
+		name = "RootViewController.h: 11";
+		rLen = 0;
+		rLoc = 243;
+		rType = 0;
+		vrLen = 387;
+		vrLoc = 3;
+	};
+	04C211DB1354DAE9002F495B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 04638E151353449C0097AB4E /* MagazineTeaserView.h */;
+		name = "MagazineTeaserView.h: 21";
+		rLen = 0;
+		rLoc = 376;
+		rType = 0;
+		vrLen = 633;
+		vrLoc = 377;
+	};
+	04C211DE1354DAE9002F495B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		name = "RootViewController.m: 106";
+		rLen = 0;
+		rLoc = 2886;
+		rType = 0;
+		vrLen = 748;
+		vrLoc = 2252;
+	};
+	04C211E01354DAE9002F495B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 04638E161353449C0097AB4E /* MagazineTeaserView.m */;
+		name = "MagazineTeaserView.m: 24";
+		rLen = 107;
+		rLoc = 435;
+		rType = 0;
+		vrLen = 588;
+		vrLoc = 289;
+	};
+	04C212001354F096002F495B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 04638E161353449C0097AB4E /* MagazineTeaserView.m */;
+		name = "MagazineTeaserView.m: 14";
+		rLen = 0;
+		rLoc = 254;
+		rType = 0;
+		vrLen = 416;
+		vrLoc = 171;
+	};
+	04C2120F1354F5D7002F495B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 04638FE6135379F70097AB4E /* Pic1.png */;
+	};
+	04C2121B1354F70E002F495B /* math.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = math.h;
+		path = /iphoneTools/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/architecture/i386/math.h;
+		sourceTree = "<absolute>";
+	};
+	04C9E4DB135889C500F4DCC3 /* TFScroller.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1002, 1552}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{139, 378}";
+		};
+	};
+	04C9E4DC135889C500F4DCC3 /* TFScroller.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1177, 10576}}";
+			sepNavSelRange = "{180, 10}";
+			sepNavVisRange = "{0, 329}";
+		};
+	};
+	04C9E51613588B7A00F4DCC3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 04C9E4DC135889C500F4DCC3 /* TFScroller.m */;
+		name = "TFScroller.m: 5";
+		rLen = 0;
+		rLoc = 51;
+		rType = 0;
+		vrLen = 191;
+		vrLoc = 0;
+	};
+	04C9E51813588B7A00F4DCC3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 04C9E4DB135889C500F4DCC3 /* TFScroller.h */;
+		name = "TFScroller.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 378;
+		vrLoc = 139;
+	};
+	04E6AA9313635549004004B1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 04E935F81358CEED000936D3 /* TFScroller.h */;
+		name = "TFScroller.h: 19";
+		rLen = 0;
+		rLoc = 504;
+		rType = 0;
+		vrLen = 302;
+		vrLoc = 839;
+	};
+	04E6AA9413635549004004B1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		name = "RootViewController.m: 87";
+		rLen = 0;
+		rLoc = 2199;
+		rType = 0;
+		vrLen = 339;
+		vrLoc = 1863;
+	};
+	04E6AAA213635D57004004B1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		name = "RootViewController.m: 87";
+		rLen = 0;
+		rLoc = 2199;
+		rType = 0;
+		vrLen = 428;
+		vrLoc = 1758;
+	};
+	04E6AAA313635D57004004B1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 04E6AAA413635D57004004B1 /* TFScroller.h */;
+		name = "TFScroller.h: 44";
+		rLen = 0;
+		rLoc = 1073;
+		rType = 0;
+		vrLen = 370;
+		vrLoc = 815;
+	};
+	04E6AAA413635D57004004B1 /* TFScroller.h */ = {
+		isa = PBXFileReference;
+		name = TFScroller.h;
+		path = /Users/rajat/Projects/HorizontalScrollView/Classes/Helpers/TFScroller/TFScroller.h;
+		sourceTree = "<absolute>";
+	};
+	04E714051354784F00EEAA45 /* UIScrollView.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UIScrollView.h;
+		path = /iphoneTools/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIScrollView.h;
+		sourceTree = "<absolute>";
+	};
+	04E7144D13547C2F00EEAA45 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 04E714051354784F00EEAA45 /* UIScrollView.h */;
+		name = "UIScrollView.h: 167";
+		rLen = 120;
+		rLoc = 8281;
+		rType = 0;
+		vrLen = 2210;
+		vrLoc = 6516;
+	};
+	04E7147513547E3500EEAA45 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 04E714051354784F00EEAA45 /* UIScrollView.h */;
+		name = "UIScrollView.h: 232";
+		rLen = 169;
+		rLoc = 13765;
+		rType = 0;
+		vrLen = 1712;
+		vrLoc = 13048;
+	};
+	04E714C513548B7500EEAA45 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0463908013538F860097AB4E /* UIScrollView.h */;
+		name = "UIScrollView.h: 46";
+		rLen = 0;
+		rLoc = 1666;
+		rType = 0;
+		vrLen = 625;
+		vrLoc = 4400;
+	};
+	04E715001354950C00EEAA45 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 04E715011354950C00EEAA45 /* NSValue.h */;
+		name = "NSValue.h: 36";
+		rLen = 30;
+		rLoc = 778;
+		rType = 0;
+		vrLen = 300;
+		vrLoc = 729;
+	};
+	04E715011354950C00EEAA45 /* NSValue.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSValue.h;
+		path = /iphoneTools/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSValue.h;
+		sourceTree = "<absolute>";
+	};
+	04E7152D135496FF00EEAA45 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 04638E20135344EC0097AB4E /* ImageLoader.m */;
+		name = "ImageLoader.m: 32";
+		rLen = 66;
+		rLoc = 437;
+		rType = 0;
+		vrLen = 255;
+		vrLoc = 417;
+	};
+	04E935EC1358C6A0000936D3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 04C2121B1354F70E002F495B /* math.h */;
+		name = "math.h: 387";
+		rLen = 0;
+		rLoc = 15672;
+		rType = 0;
+		vrLen = 580;
+		vrLoc = 15450;
+	};
+	04E935F31358CEED000936D3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 04C9E4DC135889C500F4DCC3 /* TFScroller.m */;
+		name = "TFScroller.m: 11";
+		rLen = 10;
+		rLoc = 180;
+		rType = 0;
+		vrLen = 329;
+		vrLoc = 0;
+	};
+	04E935F41358CEED000936D3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 04C9E4DB135889C500F4DCC3 /* TFScroller.h */;
+		rLen = 1;
+		rLoc = 21;
+		rType = 1;
+	};
+	04E935F71358CEED000936D3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 04E935F81358CEED000936D3 /* TFScroller.h */;
+		name = "TFScroller.h: 23";
+		rLen = 0;
+		rLoc = 628;
+		rType = 0;
+		vrLen = 586;
+		vrLoc = 136;
+	};
+	04E935F81358CEED000936D3 /* TFScroller.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = TFScroller.h;
+		path = /Users/rajat/Projects/HorizontalScrollView/Classes/Helpers/TFScroller/TFScroller.h;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1002, 1584}}";
+			sepNavSelRange = "{1073, 0}";
+			sepNavVisRange = "{815, 1007}";
+		};
+	};
+	1D3623240D0F684500981E51 /* HorizontalScrollViewAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1002, 418}}";
+			sepNavSelRange = "{575, 12}";
+			sepNavVisRange = "{0, 596}";
+		};
+	};
+	1D3623250D0F684500981E51 /* HorizontalScrollViewAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1002, 1888}}";
+			sepNavSelRange = "{697, 18}";
+			sepNavVisRange = "{238, 579}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* HorizontalScrollView */ = {
+		activeExec = 0;
+		executables = (
+			04638DEE1353433A0097AB4E /* HorizontalScrollView */,
+		);
+	};
+	28A0AAE50D9B0CCF005BE974 /* HorizontalScrollView_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1002, 736}}";
+			sepNavSelRange = "{658, 0}";
+			sepNavVisRange = "{611, 238}";
+		};
+	};
+	28C286DF0D94DF7D0034E888 /* RootViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1002, 288}}";
+			sepNavSelRange = "{243, 0}";
+			sepNavVisRange = "{3, 387}";
+		};
+	};
+	28C286E00D94DF7D0034E888 /* RootViewController.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            l = DetailViewController;\n            r = \"{6291, 24}\";\n            s = 1;\n        },\n                {\n            l = DetailViewController;\n            r = \"{6342, 24}\";\n            s = 1;\n        },\n                {\n            l = \"Nib name\";\n            r = \"{6392, 12}\";\n            s = 1;\n        }\n    );\n    r = \"{0, 7128}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1002, 4352}}";
+			sepNavSelRange = "{2199, 0}";
+			sepNavVisRange = "{1758, 428}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 04638DEE1353433A0097AB4E /* HorizontalScrollView */;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* HorizontalScrollView */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* HorizontalScrollView */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 04638DFF135343590097AB4E /* Code sense */;
+		executables = (
+			04638DEE1353433A0097AB4E /* HorizontalScrollView */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					824,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					784,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 325276980;
+			PBXWorkspaceStateSaveDate = 325276980;
+		};
+		perUserProjectItems = {
+			04638E01135344020097AB4E /* PBXTextBookmark */ = 04638E01135344020097AB4E /* PBXTextBookmark */;
+			04638E02135344020097AB4E /* PBXTextBookmark */ = 04638E02135344020097AB4E /* PBXTextBookmark */;
+			04638ECC135366BA0097AB4E /* PBXTextBookmark */ = 04638ECC135366BA0097AB4E /* PBXTextBookmark */;
+			04638ECD135366BA0097AB4E /* PBXTextBookmark */ = 04638ECD135366BA0097AB4E /* PBXTextBookmark */;
+			04638ED3135366BA0097AB4E /* PBXTextBookmark */ = 04638ED3135366BA0097AB4E /* PBXTextBookmark */;
+			04638ED4135366BA0097AB4E /* PBXTextBookmark */ = 04638ED4135366BA0097AB4E /* PBXTextBookmark */;
+			04638ED5135366BA0097AB4E /* PBXTextBookmark */ = 04638ED5135366BA0097AB4E /* PBXTextBookmark */;
+			04638ED6135366BA0097AB4E /* PBXTextBookmark */ = 04638ED6135366BA0097AB4E /* PBXTextBookmark */;
+			04638FF4135379FF0097AB4E /* PBXTextBookmark */ = 04638FF4135379FF0097AB4E /* PBXTextBookmark */;
+			0463900413537A8A0097AB4E /* PBXTextBookmark */ = 0463900413537A8A0097AB4E /* PBXTextBookmark */;
+			0463907C13538F860097AB4E /* PBXTextBookmark */ = 0463907C13538F860097AB4E /* PBXTextBookmark */;
+			0463907D13538F860097AB4E /* PBXTextBookmark */ = 0463907D13538F860097AB4E /* PBXTextBookmark */;
+			0463907F13538F860097AB4E /* PBXTextBookmark */ = 0463907F13538F860097AB4E /* PBXTextBookmark */;
+			04C211901354CCBE002F495B /* PBXTextBookmark */ = 04C211901354CCBE002F495B /* PBXTextBookmark */;
+			04C211911354CCBE002F495B /* PBXTextBookmark */ = 04C211911354CCBE002F495B /* PBXTextBookmark */;
+			04C211A01354CEC6002F495B /* PBXTextBookmark */ = 04C211A01354CEC6002F495B /* PBXTextBookmark */;
+			04C211A71354CF71002F495B /* PBXTextBookmark */ = 04C211A71354CF71002F495B /* PBXTextBookmark */;
+			04C211DB1354DAE9002F495B /* PBXTextBookmark */ = 04C211DB1354DAE9002F495B /* PBXTextBookmark */;
+			04C211DE1354DAE9002F495B /* PBXTextBookmark */ = 04C211DE1354DAE9002F495B /* PBXTextBookmark */;
+			04C211E01354DAE9002F495B /* PBXTextBookmark */ = 04C211E01354DAE9002F495B /* PBXTextBookmark */;
+			04C212001354F096002F495B /* PBXTextBookmark */ = 04C212001354F096002F495B /* PBXTextBookmark */;
+			04C2120F1354F5D7002F495B /* PBXBookmark */ = 04C2120F1354F5D7002F495B /* PBXBookmark */;
+			04C9E51613588B7A00F4DCC3 /* PBXTextBookmark */ = 04C9E51613588B7A00F4DCC3 /* PBXTextBookmark */;
+			04C9E51813588B7A00F4DCC3 /* PBXTextBookmark */ = 04C9E51813588B7A00F4DCC3 /* PBXTextBookmark */;
+			04E6AA9313635549004004B1 /* PBXTextBookmark */ = 04E6AA9313635549004004B1 /* PBXTextBookmark */;
+			04E6AA9413635549004004B1 /* PBXTextBookmark */ = 04E6AA9413635549004004B1 /* PBXTextBookmark */;
+			04E6AAA213635D57004004B1 /* PBXTextBookmark */ = 04E6AAA213635D57004004B1 /* PBXTextBookmark */;
+			04E6AAA313635D57004004B1 /* PBXTextBookmark */ = 04E6AAA313635D57004004B1 /* PBXTextBookmark */;
+			04E7144D13547C2F00EEAA45 /* PBXTextBookmark */ = 04E7144D13547C2F00EEAA45 /* PBXTextBookmark */;
+			04E7147513547E3500EEAA45 /* PBXTextBookmark */ = 04E7147513547E3500EEAA45 /* PBXTextBookmark */;
+			04E714C513548B7500EEAA45 /* PBXTextBookmark */ = 04E714C513548B7500EEAA45 /* PBXTextBookmark */;
+			04E715001354950C00EEAA45 /* PBXTextBookmark */ = 04E715001354950C00EEAA45 /* PBXTextBookmark */;
+			04E7152D135496FF00EEAA45 /* PBXTextBookmark */ = 04E7152D135496FF00EEAA45 /* PBXTextBookmark */;
+			04E935EC1358C6A0000936D3 /* PBXTextBookmark */ = 04E935EC1358C6A0000936D3 /* PBXTextBookmark */;
+			04E935F31358CEED000936D3 /* PBXTextBookmark */ = 04E935F31358CEED000936D3 /* PBXTextBookmark */;
+			04E935F41358CEED000936D3 /* PBXTextBookmark */ = 04E935F41358CEED000936D3 /* PBXTextBookmark */;
+			04E935F71358CEED000936D3 /* PBXTextBookmark */ = 04E935F71358CEED000936D3 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 04638DFE135343590097AB4E /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+}
